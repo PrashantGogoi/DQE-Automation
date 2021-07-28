@@ -22,6 +22,8 @@ Security
 Insights
 Settings
 DQE-Automation/.gitignore
+dqe_automation
+dqe_automation.pub
 @PrashantGogoi
 PrashantGogoi Initial commit
 Latest commit a2b26e8 16 minutes ago
@@ -171,3 +173,6 @@ Training
 Blog
 About
 Loading complete
+
+# Pycharm
+.idea
